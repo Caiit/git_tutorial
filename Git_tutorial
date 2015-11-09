@@ -1,0 +1,62 @@
+[33mcommit 69e327e8a346fad44dc7aedeac228ca08bf5582a[m
+Author: Caiit <Caitlin.Lagrand@live.nl>
+Date:   Sun Nov 1 17:07:24 2015 +0100
+
+    hoe werkt t toegevoegd aan tutorial
+
+[33mcommit 1ced08c320825017989ee8d6c1686e68af3511b5[m
+Author: Caiit <Caitlin.Lagrand@live.nl>
+Date:   Sun Nov 1 16:46:28 2015 +0100
+
+    tutorial aangepast
+
+[33mcommit 197c23e35236254fc9de7ee2084cf3551c0458ca[m
+Author: Houda <houda1996@hotmail.com>
+Date:   Sun Oct 18 14:17:58 2015 +0200
+
+    Python bestand aangepast
+
+[33mcommit 61891afcc25d6d1f0180bf261e3e6194189a72ac[m
+Author: Houda <houda1996@hotmail.com>
+Date:   Sun Oct 18 13:42:58 2015 +0200
+
+    Oefenbestanden toegevoegd
+
+[33mcommit 9e8c151fc72ace1f19bf7bf59d8c5e16685ada15[m
+Author: Houda <houda1996@hotmail.com>
+Date:   Sun Oct 11 23:52:15 2015 +0200
+
+    update 2 git tutorial
+
+[33mcommit ee4d37dfba4bdda1fddcd09ed3ec86bcd46a5380[m
+Author: Houda <houda1996@hotmail.com>
+Date:   Thu Oct 8 23:22:47 2015 +0200
+
+    update git tutorial
+
+[33mcommit 6dcbf91a66f133952c600cbf7e64f77a4df8ad4a[m
+Author: Caiit <Caitlin.Lagrand@live.nl>
+Date:   Wed Oct 7 20:13:37 2015 +0200
+
+    new ipython file
+
+[33mcommit f7efc3deb70f6fb626b5c40a1eb53949051cc12b[m
+Merge: 58f3ab3 067ca7a
+Author: Caiit <Caiit@users.noreply.github.com>
+Date:   Wed Oct 7 20:05:51 2015 +0200
+
+    Merge pull request #1 from Caiit/Caiit-patch-1
+    
+    Update README.md
+
+[33mcommit 067ca7aa9842c33f0afaad0bffc649cafa777c07[m
+Author: Caiit <Caiit@users.noreply.github.com>
+Date:   Wed Oct 7 20:00:54 2015 +0200
+
+    Update README.md
+
+[33mcommit 58f3ab3496a93f3a541e2b800ce0a83e303479b4[m
+Author: Caiit <Caiit@users.noreply.github.com>
+Date:   Wed Oct 7 19:57:04 2015 +0200
+
+    Initial commit
