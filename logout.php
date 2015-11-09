@@ -5,7 +5,7 @@
 	unset($_SESSION["Validate"]);
 	$currentBack = $_SERVER['HTTP_REFERER'];
 	
-	/* If the user is on his page, he is redirected to the index page. */
+	/* If the user is on his page, he is redirected to the index page, which is the homepage. */
 	if(strpos($currentBack, 'mypage.php')) {
 		$redirect = "https://localhost/website/index.php";	
 	} else {
